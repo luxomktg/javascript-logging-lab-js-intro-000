@@ -45,4 +45,4 @@ describe('index', () => {
   })
 })
 
-console.error("HeLP!")
+console.error("HALP!")
